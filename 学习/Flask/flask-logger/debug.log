@@ -1,0 +1,22 @@
+2022-11-14 09:35:44,261 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2022-11-14 09:35:44,262 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2022-11-14 09:35:44,269 - werkzeug - INFO -  * Restarting with stat
+2022-11-14 09:35:45,031 - werkzeug - WARNING -  * Debugger is active!
+2022-11-14 09:35:45,043 - werkzeug - INFO -  * Debugger PIN: 117-192-762
+2022-11-14 09:36:53,032 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 09:36:53] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2022-11-14 09:36:53,123 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 09:36:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-11-14 09:37:14,481 - werkzeug - INFO -  * Detected change in 'D:\\代码\\python\\学习\\Flask\\flask-logger\\flask_logger.py', reloading
+2022-11-14 09:37:14,526 - werkzeug - INFO -  * Restarting with stat
+2022-11-14 09:37:15,269 - werkzeug - WARNING -  * Debugger is active!
+2022-11-14 09:37:15,284 - werkzeug - INFO -  * Debugger PIN: 117-192-762
+2022-11-14 09:37:19,712 - flask_logger - DEBUG - login success.
+2022-11-14 09:37:19,713 - werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 09:37:19] "GET /login HTTP/1.1" 200 -
+2022-11-14 10:26:14,813 - werkzeug - INFO -  * Detected change in 'D:\\代码\\python\\学习\\Flask\\flask-restful\\flask_rest_model.py', reloading
+2022-11-14 10:26:14,922 - werkzeug - INFO -  * Restarting with stat
+2022-11-14 10:26:15,802 - werkzeug - WARNING -  * Debugger is active!
+2022-11-14 10:26:15,813 - werkzeug - INFO -  * Debugger PIN: 117-192-762
+2022-11-14 10:27:09,350 - werkzeug - INFO -  * Detected change in 'D:\\代码\\python\\学习\\Flask\\flask-restful\\flask_rest_model.py', reloading
+2022-11-14 10:27:09,389 - werkzeug - INFO -  * Restarting with stat
+2022-11-14 10:27:10,105 - werkzeug - WARNING -  * Debugger is active!
+2022-11-14 10:27:10,116 - werkzeug - INFO -  * Debugger PIN: 117-192-762

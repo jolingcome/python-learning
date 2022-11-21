@@ -1,0 +1,8 @@
+
+b'{\r\n  "callBackUrl": "string",\r\n  "certPubKey": "string",\r\n  "subscribeType": "integer (int32)",\r\n  "taskId": "string"\r\n}\r\n'
+b'{"isPrivate":0,"matched":false,"score":0.0}'
+{'isPrivate': 0, 'matched': False, 'score': 0.0}
+{'isPrivate': 0, 'matched': False, 'score': 0.0}
+{'isPrivate': 0, 'matched': False, 'score': 0.0}
+{'isPrivate': 0, 'matched': False, 'score': 0.0}
+{'callBackUrl': 'string', 'certPubKey': 'string', 'subscribeType': 'integer (int32)', 'taskId': 'string'}

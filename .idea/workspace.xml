@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec148840-64be-480f-a8f3-dfe4cda816d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="246" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22GTq0g11wdzdnlmc6b3pRsKpbz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/TSC/代码/coc_locust-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\代码\python\学习\Flask\flask-jwt-extend" />
+      <recent name="D:\代码\python\TSC" />
+      <recent name="D:\代码\python\学习\常见模块" />
+      <recent name="D:\代码\python\医院" />
+      <recent name="D:\代码\python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\代码\python\学习\Flask\Flask-WTF\templates" />
+      <recent name="D:\代码\python\TSC" />
+      <recent name="D:\代码\python\学习\Flask\Flask-redirect\template" />
+      <recent name="D:\代码\python\学习\Flask\Flask-upload-file" />
+      <recent name="D:\代码\python\学习\Flask\Flask-get-post" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.flask_rest_model">
+    <configuration name="渣土车IOU" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSC/渣土车IOU.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/Flask/flask-logger" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/Flask/flask-logger/flask_logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_rest_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/Flask/flask-restful" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/Flask/flask-restful/flask_rest_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/docker_demo/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/docker_demo/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/Flask/Flask-blueprint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/Flask/Flask-blueprint/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flask_rest_model" />
+        <item itemvalue="Python.flask_logger" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.渣土车IOU" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec148840-64be-480f-a8f3-dfe4cda816d1" name="Default Changelist" comment="" />
+      <created>1639463110118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639463110118</updated>
+      <workItem from="1639463111588" duration="7006000" />
+      <workItem from="1639646197863" duration="6960000" />
+      <workItem from="1639708128023" duration="16651000" />
+      <workItem from="1640227450586" duration="1346000" />
+      <workItem from="1640395310421" duration="30000" />
+      <workItem from="1640395352195" duration="1219000" />
+      <workItem from="1640744302457" duration="5815000" />
+      <workItem from="1640825516435" duration="11899000" />
+      <workItem from="1641283765203" duration="60000" />
+      <workItem from="1642417381255" duration="1405000" />
+      <workItem from="1643359932057" duration="4152000" />
+      <workItem from="1646186886096" duration="3185000" />
+      <workItem from="1646647150492" duration="725000" />
+      <workItem from="1646650243512" duration="599000" />
+      <workItem from="1646987131588" duration="1126000" />
+      <workItem from="1647228129403" duration="8945000" />
+      <workItem from="1648561507589" duration="15665000" />
+      <workItem from="1648864717292" duration="16000" />
+      <workItem from="1648864749891" duration="107022000" />
+      <workItem from="1654759482085" duration="38000" />
+      <workItem from="1654760356266" duration="1214000" />
+      <workItem from="1654827247114" duration="26000" />
+      <workItem from="1654827317762" duration="21000" />
+      <workItem from="1654827349326" duration="1194000" />
+      <workItem from="1655692391113" duration="22533000" />
+      <workItem from="1655865359583" duration="33479000" />
+      <workItem from="1656558576212" duration="2061000" />
+      <workItem from="1656900886737" duration="24000" />
+      <workItem from="1656900923866" duration="30821000" />
+      <workItem from="1657173763711" duration="7376000" />
+      <workItem from="1658192877686" duration="1432000" />
+      <workItem from="1658886815590" duration="154000" />
+      <workItem from="1658973004904" duration="2404000" />
+      <workItem from="1660092167515" duration="662000" />
+      <workItem from="1660525535675" duration="1666000" />
+      <workItem from="1660611423941" duration="3688000" />
+      <workItem from="1662341290509" duration="9637000" />
+      <workItem from="1662511645289" duration="3611000" />
+      <workItem from="1662598467018" duration="379000" />
+      <workItem from="1662598869043" duration="13000" />
+      <workItem from="1662598895874" duration="2707000" />
+      <workItem from="1662684273871" duration="2053000" />
+      <workItem from="1663031178958" duration="1239000" />
+      <workItem from="1663116623686" duration="2690000" />
+      <workItem from="1663205456007" duration="3641000" />
+      <workItem from="1663807649443" duration="3891000" />
+      <workItem from="1663836466075" duration="2202000" />
+      <workItem from="1664185777343" duration="147000" />
+      <workItem from="1664185935755" duration="60000" />
+      <workItem from="1664186009643" duration="3451000" />
+      <workItem from="1664326655333" duration="2250000" />
+      <workItem from="1664500241252" duration="2880000" />
+      <workItem from="1665449726317" duration="3003000" />
+      <workItem from="1665823038097" duration="1261000" />
+      <workItem from="1666512611734" duration="17000" />
+      <workItem from="1666512640539" duration="101482000" />
+      <workItem from="1667263714376" duration="18994000" />
+      <workItem from="1667523002998" duration="5834000" />
+      <workItem from="1667781925185" duration="1934000" />
+      <workItem from="1667809045170" duration="7891000" />
+      <workItem from="1667869438439" duration="4402000" />
+      <workItem from="1667898084974" duration="7892000" />
+      <workItem from="1667983987165" duration="7259000" />
+      <workItem from="1668239041165" duration="24193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="-861" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1667869008671">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="563" y="-861" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667869008671" />
+    <state x="375" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667813008927" />
+    <state x="286" y="91" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1664326965891">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="286" y="91" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1664326965891" />
+    <state x="724" y="309" key="#com.intellij.tools.ToolEditorDialog" timestamp="1664327037257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="724" y="309" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1664327037257" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1668560597372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="632" y="-933" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1666771621306" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1668560597372" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1666513079110" />
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1668565550210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667979810129" />
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1668565550210" />
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1666852557422" />
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1668412306847" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1668565550210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667979810129" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1668565550210" />
+    <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1666852557422" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1668412306846" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1668565550209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667979810129" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1668565550209" />
+    <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1666852557422" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1668412306846" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1668565550210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667979810129" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1668565550210" />
+    <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1666852557422" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1668412306846" />
+    <state width="833" height="176" key="GridCell.Tab.1.bottom" timestamp="1667984734976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1182" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1666696224766" />
+    <state width="833" height="176" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667984734976" />
+    <state width="833" height="176" key="GridCell.Tab.1.center" timestamp="1667984734976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1182" height="213" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1666696224766" />
+    <state width="833" height="176" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667984734976" />
+    <state width="833" height="176" key="GridCell.Tab.1.left" timestamp="1667984734975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1182" height="213" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1666696224766" />
+    <state width="833" height="176" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667984734975" />
+    <state width="833" height="176" key="GridCell.Tab.1.right" timestamp="1667984734976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1182" height="213" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1666696224766" />
+    <state width="833" height="176" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667984734976" />
+    <state x="461" y="-918" key="SettingsEditor" timestamp="1667817952939">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="461" y="-918" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667817952939" />
+    <state x="-8" y="0" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1664327040509" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1668239644861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="-828" key="com.intellij.ide.util.TipDialog/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1667898086045" />
+    <state x="488" y="-828" key="com.intellij.ide.util.TipDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667984957873" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1668239644861" />
+    <state x="249" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1667290254855">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="249" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1667290254855" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/liudiao_new.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TSC/渣土车IOU.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="id_queue" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$pytest_fixture.coverage" NAME="pytest-fixture Coverage Results" MODIFIED="1640853035885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1/test" />
+    <SUITE FILE_PATH="coverage/python$Producer_1_.coverage" NAME="Producer(1) Coverage Results" MODIFIED="1666868303629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$flask_post.coverage" NAME="flask-post Coverage Results" MODIFIED="1667179028093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-get-post" />
+    <SUITE FILE_PATH="coverage/python$data_database.coverage" NAME="data_database Coverage Results" MODIFIED="1649385235200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$PyPdf.coverage" NAME="PyPdf Coverage Results" MODIFIED="1660615014098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$flask_session.coverage" NAME="flask-session Coverage Results" MODIFIED="1667181698688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-cookie-session" />
+    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1667954807022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/docker_demo/src" />
+    <SUITE FILE_PATH="coverage/python$write_kafka.coverage" NAME="write-kafka Coverage Results" MODIFIED="1666663231492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$pendulum_models.coverage" NAME="pendulum_models Coverage Results" MODIFIED="1662513975008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$mss_model.coverage" NAME="mss_model Coverage Results" MODIFIED="1664241535011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$liudiao_copy.coverage" NAME="liudiao_copy Coverage Results" MODIFIED="1648905319421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$zhatuche.coverage" NAME="zhatuche Coverage Results" MODIFIED="1666831693574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$flask_logger.coverage" NAME="flask_logger Coverage Results" MODIFIED="1668389743418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/flask-logger" />
+    <SUITE FILE_PATH="coverage/python$better_profanity_model.coverage" NAME="better-profanity_model Coverage Results" MODIFIED="1662599439134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$Fake_model.coverage" NAME="Fake_model Coverage Results" MODIFIED="1664328625177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$easydict_model.coverage" NAME="easydict_model Coverage Results" MODIFIED="1663119253651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$kafka_test.coverage" NAME="kafka_test Coverage Results" MODIFIED="1639798597053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
+    <SUITE FILE_PATH="coverage/python$loguru_model.coverage" NAME="loguru_model Coverage Results" MODIFIED="1662686049184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="回调订阅接口 Coverage Results" MODIFIED="1667812562866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$Poc___flow__1_.coverage" NAME="医院Poc - flow (1) Coverage Results" MODIFIED="1656928218632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/医院" />
+    <SUITE FILE_PATH="coverage/python$pytest_in_pytest_fixture_py.coverage" NAME="pytest in pytest-fixture.py Coverage Results" MODIFIED="1640854814844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1/test" />
+    <SUITE FILE_PATH="coverage/python$Poc___flow__.coverage" NAME="医院Poc - flow -并发 Coverage Results" MODIFIED="1655955290547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$flask_cookie.coverage" NAME="flask-cookie Coverage Results" MODIFIED="1667179635176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-cookie-session" />
+    <SUITE FILE_PATH="coverage/python$flask_sqlalchemy_run__1_.coverage" NAME="flask_sqlalchemy_run (1) Coverage Results" MODIFIED="1667783017119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask_sqlalchemy" />
+    <SUITE FILE_PATH="coverage/python$true_false_bug.coverage" NAME="医院true-false bug统计 Coverage Results" MODIFIED="1649401240451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Poc___flow_____gevent.coverage" NAME="医院Poc - flow -并发 - gevent Coverage Results" MODIFIED="1649379107298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$manage.coverage" NAME="manage Coverage Results" MODIFIED="1668241644155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-blueprint" />
+    <SUITE FILE_PATH="coverage/python$flask_get.coverage" NAME="flask-get Coverage Results" MODIFIED="1667178451599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/template" />
+    <SUITE FILE_PATH="coverage/python$flask_sqlalchemy.coverage" NAME="flask_sqlalchemy Coverage Results" MODIFIED="1667525777978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask_sqlalchemy" />
+    <SUITE FILE_PATH="coverage/python$gitlab_test.coverage" NAME="gitlab_test Coverage Results" MODIFIED="1639653158992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
+    <SUITE FILE_PATH="coverage/python$01.coverage" NAME="算法01 Coverage Results" MODIFIED="1657004588191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$liudiao_new.coverage" NAME="liudiao_new Coverage Results" MODIFIED="1649228747406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$open_ability_server.coverage" NAME="open_ability_server Coverage Results" MODIFIED="1658193157549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api-generator" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1666833369548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$_.coverage" NAME="序列化-反序列化 Coverage Results" MODIFIED="1663117843671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$PySnooper_model.coverage" NAME="PySnooper_model Coverage Results" MODIFIED="1664328844777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$liudiao.coverage" NAME="liudiao Coverage Results" MODIFIED="1648891192852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Poc___flow.coverage" NAME="医院Poc - flow Coverage Results" MODIFIED="1655978639762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$flash_message.coverage" NAME="flash-message Coverage Results" MODIFIED="1667352594344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/flash-message" />
+    <SUITE FILE_PATH="coverage/python$create_device.coverage" NAME="医院create_device Coverage Results" MODIFIED="1657185260998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$flask_get__1_.coverage" NAME="flask-get (1) Coverage Results" MODIFIED="1667263371075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-get-post" />
+    <SUITE FILE_PATH="coverage/python$flask_upload_file.coverage" NAME="flask-upload-file Coverage Results" MODIFIED="1667263620114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-upload-file" />
+    <SUITE FILE_PATH="coverage/python$pytest_for_pytest_fixture_TestParametrize_test_parametrize_2.coverage" NAME="pytest for pytest-fixture.TestParametrize.test_parametrize_2 Coverage Results" MODIFIED="1640849564215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1/test" />
+    <SUITE FILE_PATH="coverage/python$pandasexcel.coverage" NAME="pandas插入excel Coverage Results" MODIFIED="1663207326116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$flask_wtf.coverage" NAME="flask_wtf Coverage Results" MODIFIED="1667438266009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-WTF" />
+    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="算法2 Coverage Results" MODIFIED="1655953668972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Poc.coverage" NAME="医院Poc Coverage Results" MODIFIED="1649314950087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$flask_rest_model.coverage" NAME="flask_rest_model Coverage Results" MODIFIED="1668412228110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/flask-restful" />
+    <SUITE FILE_PATH="coverage/python$captcha_model.coverage" NAME="captcha_model Coverage Results" MODIFIED="1662512904543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$pd_toExcel_test.coverage" NAME="pd_toExcel_test Coverage Results" MODIFIED="1649209605725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1666850680386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$Producer.coverage" NAME="Producer Coverage Results" MODIFIED="1666920519137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$flask_redirect.coverage" NAME="flask-redirect Coverage Results" MODIFIED="1667266187381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-redirect" />
+    <SUITE FILE_PATH="coverage/python$aa.coverage" NAME="aa Coverage Results" MODIFIED="1666865244730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$namedtuple.coverage" NAME="namedtuple Coverage Results" MODIFIED="1662601569993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$distance.coverage" NAME="医院distance Coverage Results" MODIFIED="1656486882338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/医院" />
+    <SUITE FILE_PATH="coverage/python$decouple_model.coverage" NAME="decouple_model Coverage Results" MODIFIED="1662427215311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/常见模块" />
+    <SUITE FILE_PATH="coverage/python$flask_wtf_run__1_.coverage" NAME="flask_wtf_run (1) Coverage Results" MODIFIED="1667438496736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/Flask/Flask-WTF" />
+    <SUITE FILE_PATH="coverage/python$_kafka__1_.coverage" NAME="多线程-kafka (1) Coverage Results" MODIFIED="1666919435718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$Producer___1_.coverage" NAME="Producer-多用户 (1) Coverage Results" MODIFIED="1666920554827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$__getattr__test.coverage" NAME="__getattr__test Coverage Results" MODIFIED="1640933586996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
+    <SUITE FILE_PATH="coverage/python$IOU.coverage" NAME="渣土车IOU Coverage Results" MODIFIED="1667984788508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TSC" />
+    <SUITE FILE_PATH="coverage/python$k8s_test.coverage" NAME="k8s_test Coverage Results" MODIFIED="1639788902173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled1" />
+  </component>
+</project>

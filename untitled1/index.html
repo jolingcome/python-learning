@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.staticfile.org/jquery/2.0.0/jquery.min.js"></script>
+    <title>图片集</title>
+    <style>
+        img {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <textarea name="imageUrls" id="imageUrls" cols="30" rows="10"></textarea>
+        <div id="images"></div>
+        <span title="1111">xuexi</span>
+    </div>
+    <script>
+        $(document).ready(function () {
+            $('#imageUrls').change(function() {
+                var value = $('#imageUrls').val();
+                var arr = value.replace(/\n/g, ' ').split(' ');
+                var html = '';
+                for(var i=0; i<arr.length; i++) {
+                    html += '<img src="' + arr[i] + '" title="' + arr[i] + '" />';
+                }
+                $('#images').html(html);
+            });
+
+            $('#imageUrls img').click(function() {
+                var value = $(this).attr('src');
+                alert(value);
+            });
+        });
+    </script>
+</body>
+
+</html>

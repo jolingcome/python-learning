@@ -1,0 +1,38 @@
+{
+  "appletName": "com.sensetime.algo.dump.truck",
+  "appletVersion": 40402,
+  "associationObjects": [],
+  "attributeMap": {
+    "record_id": {
+      "category": "10002022102407465530201",
+      "type": "REGRESSION",
+      "value": "0.0"
+    }
+  },
+  "bigImage": {
+    "height": 1080,
+    "imageSerial": "video_event_panoramic/20221024-0f9933de-00a2c8a28bf9e1-0005a480-000041c8",
+    "imageUrl": "https://10.9.244.138:30443/components/osg-default/_/video_event_panoramic/20221024-0f9933de-00a2c8a28bf9e1-0005a480-000041c8?signature\u003d2szrdYZrK3HA9WRe5YNrWozNQ2o%3D\u0026expires\u003d1666604815\u0026access_key\u003dG79QLDHMudirh9fVEHgLNSc7",
+    "width": 1920
+  },
+  "camera": {
+    "camera": "7nzrjxuwuygw",
+    "cameraName": "test_1"
+  },
+  "capturedTime": 1666597615000,
+  "data": "{\"record_info\":{\"pre_record_seconds\":30,\"append_record_seconds\":60,\"need_record\":true,\"record_event_types\":[\"START\",\"END\"]},\"rule\":{\"rule_id\":\"3d97112486eb48b69d34d183e7bb6593\"}}",
+  "eventName": "ST_DUMP_TRUCK_UNSEALED",
+  "objectId": "072a2b00-5370-11ed-efd7-00031500fdd1",
+  "objectType": "OBJECT_EVENT",
+  "receivedTime": 1666597615000,
+  "tid": "default",
+  "timeRecord": {
+    "in": {
+      "WHALE-ASYNC": 1666597615284
+    },
+    "out": {
+      "WHALE-ASYNC": 1666597615284
+    }
+  },
+  "trackEvent": "END"
+}

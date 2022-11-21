@@ -1,0 +1,78 @@
+{
+  "appletName": "com.sensetime.algo.dump.truck",
+  "appletVersion": 40402,
+  "associationObjects": [
+    {
+      "associationType": "",
+      "objectId": "0396a400-5370-11ed-efd4-00031500e67a",
+      "type": "OBJECT_AUTOMOBILE"
+    }
+  ],
+  "attributeMap": {
+    "load_type": {
+      "category": "0.92732346",
+      "type": "CLASSIFICATION",
+      "value": "st_dump_load_close"
+    },
+    "color": {
+      "category": "0.80878854",
+      "type": "CLASSIFICATION",
+      "value": "yellow"
+    },
+    "large_vehicle": {
+      "category": "0.99524945",
+      "type": "CLASSIFICATION",
+      "value": "粤B43893D"
+    },
+    "truck_side_plate": {
+      "category": "0.9580458",
+      "type": "CLASSIFICATION",
+      "value": "皖B32735D"
+    },
+    "tridegree": {
+      "category": "0.9476916",
+      "type": "CLASSIFICATION",
+      "value": "st_front"
+    },
+    "class": {
+      "category": "0.998784",
+      "type": "CLASSIFICATION",
+      "value": "st_big_truck"
+    },
+    "dump_style": {
+      "category": "0.9904976",
+      "type": "CLASSIFICATION",
+      "value": "st_dump_without"
+    },
+    "special_class": {
+      "category": "0.7290645",
+      "type": "CLASSIFICATION",
+      "value": "st_dump"
+    }
+  },
+  "bigImage": {
+    "height": 1080,
+    "imageSerial": "video_event_panoramic/20221024-0f9933de-00a2c8a28bf9e1-0005a480-000041c8",
+    "imageUrl": "https://10.9.244.138:30443/components/osg-default/_/video_event_panoramic/20221024-0f9933de-00a2c8a28bf9e1-0005a480-000041c8?signature\u003d2szrdYZrK3HA9WRe5YNrWozNQ2o%3D\u0026expires\u003d1666604815\u0026access_key\u003dG79QLDHMudirh9fVEHgLNSc7",
+    "width": 1920
+  },
+  "camera": {
+    "camera": "7nzrjxuwuygw",
+    "cameraName": "test_1"
+  },
+  "capturedTime": 1666597615000,
+  "createTime": 1666597615282,
+  "data": "{\"unsealed\":{\"targets\":[{\"rectangle\":{\"vertices\":[{\"x\":436,\"y\":130},{\"x\":616,\"y\":260}]},\"score\":1,\"label\":\"st_dump_load_full\"}]},\"rule\":{\"rule_id\":\"3d97112486eb48b69d34d183e7bb6593\"},\"record_info\":{\"pre_record_seconds\":30,\"append_record_seconds\":60,\"need_record\":true,\"record_event_types\":[\"START\",\"END\"]},\"truck\":{\"targets\":[{\"score\":0.8869834542274475,\"rectangle\":{\"vertices\":[{\"x\":436,\"y\":130},{\"x\":616,\"y\":260}]}}]}}",
+  "eventName": "ST_DUMP_TRUCK_UNSEALED",
+  "objectId": "072a2b00-5370-11ed-efd7-00031500fdd1",
+  "objectType": "OBJECT_EVENT",
+  "receivedTime": 1666597615000,
+  "tid": "default",
+  "timeRecord": {
+    "in": {
+      "WHALE-ASYNC": 1666597615282
+    },
+    "out": {}
+  },
+  "trackEvent": "START"
+}

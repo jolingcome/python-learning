@@ -1,0 +1,104 @@
+96&195 是hospital-poc 分支医院项目用的，后面要迭代优化
+183 是sfe3.0的 int分支(183是主sfe没有方舟的能力)
+157&95 是正式sfe3.0的环境 test分支
+
+
+
+95环境sfe,已授权
+1. guns : 已发
+2. algoOperator:
+2. cognitivesvc-kestrel:
+3. contact-tracing-extention: 已发
+4. device：已发
+4. eventhandler: 
+5. flink（task+job服务）: 已发
+6. frontend:已发
+7. genieadapter: test是最新的，直接run pipeline。已发
+8. map: 已发
+9. messagehandler:已发
+10. person: 已发
+11. policy: 已发
+12. sensebiAdapter: 已发
+13. senseidAdapter: 已发
+14. senseyeAdapter: 已发
+15. senseyeXAdapter: 没有新的代码需要merger。直接run pipeline即可。已发
+16. utility: 已发
+17. viper-callback-forward: 已发，未成功
+18. viper-main-adaptor: 已发
+19. viperXAdapter: 已发
+20：visualstream: 已发
+
+
+183 int环境：
+
+
+
+96环境：
+1. cog 未发成功
+2. messagehandler:
+
+
+
+
+95测试：
+1.cogx:机构化策略，已触发
+2.聚档：viper-server-1
+2. 医院8个视频： 
+（1）rtsp://10.151.5.160/hospital10mins/AquF1jizhendating2 A区F1急诊大厅2   --走到viperx去了，设备异常已经删除
+（2）rtsp://10.151.5.160/hospital10mins/AquF1jizhendating5 A区F1急诊大厅5   --已加距离
+（3）rtsp://10.151.5.160/hospital10mins/AquF2waikehushitai 综合楼A区F2外科护士台   --已加距离
+（4）rtsp://10.151.5.160/hospital10mins/faremenzhendamen01  发热门诊01发热门诊大门1B
+（5）rtsp://10.151.5.160/hospital10mins/faremenzhendating01  发热门诊01发热门诊大厅
+（6）rtsp://10.151.5.160/hospital10mins/FquF1jianyankechurukou 综合楼F区F1检验科出入口  --已加距离
+（7）rtsp://10.151.5.160/hospital10mins/FquF1jianyankedating4  综合楼F区F1检验科大厅4  ---已加距离
+（8）rtsp://10.151.5.160/hospital10mins/texumenzhendating2  特需门诊大厅2  --已加距离
+3.联想的10个视频
+--（1）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch85  ch85-理想11F-鸟巢门口上（门）   
+--（2）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch84  ch84_理想11F-F11-C11359上
+（3）ch90-理想11F-东交民巷门口1
+--（4）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch101  ch101_理想11F-后悔会议室旁1
+--（5）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch88  ch88_理想11F-F11-D11429上
+（6）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch89  ch89_理想11F-电话闸门口2
+--（7）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch86  ch86_理想11F-活动室门口
+（8）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch78  ch78_北侧打印区1（门
+（9）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch80  ch80_理想11F-F11-C11330上
+（10）rtsp://10.151.5.160/hospital/beijing_videos/video1/ch91 ch91_理想11F-东交民巷门口2
+
+video1:
+1. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch101 ch101_理想11F-后海会议室旁
+2. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch78 ch78_理想11F北侧打印区1（门
+3. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch80 ch80_理想11F-F11-C11330上
+4. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch84 ch84_理想11F-F11-C11359上
+5. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch85 ch85_理想11F-鸟巢门口上（门）
+6. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch86 ch86_理想11F-活动室门口
+7. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch87_1 ch87_1_理想11F-西侧打印区上
+8. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch87_2 ch87_2_理想11F-南侧前台2
+9. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch88 ch88_理想11F-F11-D11429上
+10. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch89 ch89_理想11F-电话间门口2
+11. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch90 ch90_理想11F-东交民巷门口1
+12. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch91 ch91_理想11F-东交民巷门口2
+13. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch93_1 ch93_1_理想11F-陶然亭旁1
+14. rtsp://10.151.5.160/hospital/beijing_videos/video1/ch93_2 ch93_2_理想11F-南侧前台1
+
+
+4. 大精灵：
+（1）rtsp://10.151.5.160/yangling/break_long   闯入
+（2）rtsp://10.151.5.160/yangling/dajia   打架
+（3）rtsp://10.151.5.160/yangling/dianpinche   电瓶车
+（4）rtsp://10.151.5.160/yangling/fire0   烟火
+（5）rtsp://10.151.5.160/yangling/garbage   垃圾
+（6）rtsp://10.151.5.160/yangling/outclimb1   翻越
+（7）rtsp://10.151.5.160/yangling/ligang_1   离岗
+（9）rtsp://10.151.5.160/yangling/shuigang   睡岗
+（10）rtsp://10.151.5.160/yangling/parking_exit   停车场出入口拥堵
+（11）rtsp://10.151.5.160/yangling/xiaofan   消防
+（12）rtsp://10.151.5.160/yangling/diedao01 跌倒
+
+
+5. viperXAdapter
+（1）rtsp://10.151.5.160/yangling/fire1   烟火
+
+
+
+
+
